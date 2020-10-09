@@ -4,10 +4,9 @@
 The application calculates the compound interest of given principal, period and interest.
 
 ## Used formula for the calculations
-[Investopedia](https://www.investopedia.com/terms/c/compoundinterest.asp)
-Compound Interest = Total amount of Principal and Interest in future (or Future Value) less Principal amount at present (or Present Value)
-
-            **CI = [P (1 + i)n] – P**
+Compound Interest = Total amount of Principal and Interest in future (or Future Value) less Principal amount at present (or Present Value)  
+**CI = [P (1 + i)n] – P**  
+### Source [Investopedia](https://www.investopedia.com/terms/c/compoundinterest.asp)
 
 ## Application Startup
 ### To run the application manually from the repository
@@ -15,10 +14,10 @@ Compound Interest = Total amount of Principal and Interest in future (or Future 
 - Run `python3 main.py`
 
 ### Application interface
-![Interface]()
+![Interface](https://github.com/luntropy/compound-interest-calculator/blob/main/images/app_interface.png)
 
 ### Application usage example
-![Usage example]()
+![Usage example](https://github.com/luntropy/compound-interest-calculator/blob/main/images/app_usage_example.png)
 
 ### Application example with invalid input
-![Invalid input example]()
+![Invalid input example](https://github.com/luntropy/compound-interest-calculator/blob/main/images/app_error_example.png)
