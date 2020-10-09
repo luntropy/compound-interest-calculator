@@ -6,7 +6,8 @@ The application calculates the compound interest of given principal, period and 
 ## Used formula for the calculations
 [Investopedia](https://www.investopedia.com/terms/c/compoundinterest.asp)
 Compound Interest = Total amount of Principal and Interest in future (or Future Value) less Principal amount at present (or Present Value)
-            **= [P (1 + i)n] – P**
+
+            **CI = [P (1 + i)n] – P**
 
 ## Application Startup
 ### To run the application manually from the repository
@@ -14,9 +15,10 @@ Compound Interest = Total amount of Principal and Interest in future (or Future 
 - Run `python3 main.py`
 
 ### Application interface
-
+![Interface]()
 
 ### Application usage example
+![Usage example]()
 
-
-### Application "invalid input" example
+### Application example with invalid input
+![Invalid input example]()
