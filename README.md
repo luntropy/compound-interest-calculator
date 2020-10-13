@@ -5,7 +5,7 @@ The application calculates the compound interest of given principal, period and 
 
 ## Used formula for the calculations
 Compound Interest (CI) = Total amount of Principal (P) and Interest (i) in future ('n' years from the present time) (or Future Value) less Principal amount at present (or Present Value)  
-**CI = [P(1 + i)^n] - P**  
+**CI = [P * (1 + i)^n] - P**  
 ### Source [Investopedia](https://www.investopedia.com/terms/c/compoundinterest.asp)
 
 ## Application Startup
